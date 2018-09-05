@@ -19,6 +19,7 @@ RUN apt-get update && apt-get install -y \
         swig \
         unzip \
         zip \
+        emacs \
         zlib1g-dev \
         && \
     apt-get clean && \
