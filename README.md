@@ -2,7 +2,7 @@
 [![Docker Stars](https://img.shields.io/docker/stars/brianlow/syntaxnet.svg?style=flat-square)](https://hub.docker.com/r/brianlow/syntaxnet/)
 
 
-Syntaxnet
+Syntaxne
 =========
 
 [Google's SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) Parser and POS tagger.
